@@ -1,2 +1,2 @@
-# Celular2
+# técnica 
 Site de aprendizagem HTML e CSS
